@@ -32,11 +32,27 @@ mengutamakan pemahaman konsep dan kerapian kode.
 
 Bidang yang sedang saya pelajari dan kembangkan:
 
-- 🌐 Pengembangan web berbasis HTML, CSS, dan JavaScript
-- ⚙️ Backend web menggunakan PHP
-- 🧱 Pengembangan aplikasi dengan framework Laravel
+- 🌐 Pengembangan web front end
+- ⚙️ Backend web berbasis PHP
+- 🧱 Pengembangan aplikasi menggunakan framework
 - 🗂️ Penerapan arsitektur MVC
 - 🔧 Pengelolaan versi proyek menggunakan Git
+
+---
+
+## 🧑‍💻 Bahasa dan Teknologi
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+</p>
 
 ---
 
