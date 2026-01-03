@@ -4,13 +4,13 @@
 
 <p>
 🎓 Mahasiswa Teknologi Informasi<br>
-💻 Pengembangan Web dan Aplikasi<br>
+💻 Minat pada Pengembangan Web dan Aplikasi<br>
 📍 Banda Aceh, Indonesia
 </p>
 
 <p>
 <a href="mailto:muwarisin@gmail.com">📧 Email</a> ·
-<a href="https://github.com/Ayries18">💼 GitHub</a>
+<a href="https://github.com/Ayries18">💼 GitHub</a> ·
 <a href="https://www.linkedin.com/in/muhammad-almuwarisin-934079376">🔗 LinkedIn</a>
 </p>
 
@@ -21,58 +21,54 @@
 ## 🧭 Tentang Profil Ini
 
 Repository ini merupakan halaman profil utama GitHub saya.  
-Akun ini digunakan sebagai ruang kerja dan dokumentasi proses belajar selama
-menempuh studi di bidang Teknologi Informasi.
+Akun ini saya gunakan untuk menyimpan dan mendokumentasikan proses belajar
+serta proyek yang saya kerjakan selama perkuliahan di bidang Teknologi Informasi.
 
-Saya berfokus pada pengembangan web dengan pendekatan yang terstruktur,
-mengutamakan pemahaman konsep dan kerapian kode.
+Saya tertarik pada pengembangan web dan berusaha membangun pemahaman
+yang baik terhadap struktur aplikasi, alur kerja, serta penulisan kode
+yang rapi dan mudah dipahami.
 
 ---
 
-## 🎯 Fokus Pengembangan
+## 🎯 Fokus yang Sedang Dipelajari
 
-Bidang yang sedang saya pelajari dan kembangkan:
+Beberapa hal yang sedang saya pelajari dan kembangkan saat ini:
 
-- 🌐 Pengembangan web front end
-- ⚙️ Backend web berbasis PHP
-- 🧱 Pengembangan aplikasi menggunakan framework
-- 🗂️ Penerapan arsitektur MVC
-- 🔧 Pengelolaan versi proyek menggunakan Git
+- 🌐 Pengembangan web menggunakan HTML, CSS, dan JavaScript
+- ⚙️ Backend web menggunakan PHP
+- 🧱 Pengembangan aplikasi dengan framework Laravel
+- 🗂️ Penerapan konsep MVC dalam aplikasi web
+- 🔧 Penggunaan Git untuk pengelolaan versi proyek
 
 ---
 
 ## 🧑‍💻 Bahasa dan Teknologi
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/Python-444444?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-444444?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-444444?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-444444?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-444444?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-444444?style=flat&logo=laravel&logoColor=white" />
 </p>
 
 ---
 
-## 📘 Pendekatan Belajar
+## 📘 Cara Saya Belajar
 
-Saya memandang setiap proyek sebagai bagian dari proses pembelajaran.  
-Penekanan diberikan pada:
+Saya menggunakan GitHub sebagai catatan perkembangan belajar.  
+Setiap proyek saya jadikan sarana untuk:
 
-- 📐 Pemahaman konsep, bukan hanya hasil akhir
-- 🧼 Struktur kode yang rapi dan mudah dipahami
-- 🔁 Konsistensi dalam pengembangan dan perbaikan
-
-Pendekatan ini saya gunakan untuk membangun fondasi teknis yang kuat
-sebelum mengembangkan sistem dan aplikasi yang lebih kompleks.
+- 📐 Memahami konsep secara bertahap
+- 🧼 Membiasakan struktur kode yang jelas
+- 🧪 Mencoba mengerjakan fitur secara mandiri
+- 🔁 Mengevaluasi kekurangan untuk diperbaiki di proyek berikutnya
 
 ---
 
 <div align="center">
 
-✨ Belajar secara konsisten, membangun dengan struktur
+✨ Belajar perlahan, tapi konsisten
 
 </div>
