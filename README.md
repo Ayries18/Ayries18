@@ -11,6 +11,7 @@
 <p>
 <a href="mailto:muwarisin@gmail.com">📧 Email</a> ·
 <a href="https://github.com/Ayries18">💼 GitHub</a>
+<a href="https://www.linkedin.com/in/muhammad-almuwarisin-934079376">🔗 LinkedIn</a>
 </p>
 
 </div>
