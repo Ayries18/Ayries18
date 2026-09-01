@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- ==================== HERO ==================== -->
+<!-- ========================================================= -->
+<!-- HERO -->
+<!-- ========================================================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,75:2563EB,100:F59E0B&height=230&section=header&text=Muhammad%20Almuwarisin&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20Web%20Developer%20%7C%20Accessibility%20Focused&descSize=16&descAlignY=58&descAlign=50"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,75:2563EB,100:F59E0B&height=220&section=header&text=Muhammad%20Almuwarisin&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20Web%20Developer%20%7C%20Accessibility%20Focused&descSize=16&descAlignY=58&descAlign=50"
   width="100%"
   alt="Muhammad Almuwarisin"
 >
@@ -40,17 +42,19 @@
 
 </div>
 
+<br>
+
 ---
 
 ## 👋 About Me
 
 I'm **Muhammad Almuwarisin**, an Information Technology student from Aceh, Indonesia.
 
-I enjoy developing web applications with a focus on **practical functionality, clean interfaces, and accessibility**.
+I enjoy building web applications with a focus on **practical functionality, clean interfaces, and accessibility**.
 
-My main development experience is centered around **Laravel, PHP, Blade, JavaScript, Tailwind CSS, and database-driven web applications**.
+My current development experience is centered around **Laravel, PHP, Blade, JavaScript, Tailwind CSS, and database-driven web applications**.
 
-One of my main projects is **Read-Assist**, an accessibility-focused platform designed to help visually impaired users access digital learning materials through audio, Text-to-Speech, and QR Code technology.
+I also enjoy exploring how technology can make digital information easier to access, which led me to build **Read-Assist**, an accessibility-focused platform for digital learning materials.
 
 ---
 
@@ -61,7 +65,7 @@ One of my main projects is **Read-Assist**, an accessibility-focused platform de
 ### Frontend
 
 <img
-  src="https://skillicons.dev/icons?i=html,css,js,tailwind"
+  src="https://skillicons.dev/icons?i=html,css,js,tailwind&perline=4"
   alt="HTML CSS JavaScript Tailwind CSS"
 >
 
@@ -70,7 +74,7 @@ One of my main projects is **Read-Assist**, an accessibility-focused platform de
 ### Backend
 
 <img
-  src="https://skillicons.dev/icons?i=php,laravel"
+  src="https://skillicons.dev/icons?i=php,laravel&perline=2"
   alt="PHP Laravel"
 >
 
@@ -79,16 +83,16 @@ One of my main projects is **Read-Assist**, an accessibility-focused platform de
 ### Database
 
 <img
-  src="https://skillicons.dev/icons?i=sqlite,mysql"
-  alt="SQLite MySQL"
+  src="https://skillicons.dev/icons?i=sqlite&perline=1"
+  alt="SQLite"
 >
 
 <br><br>
 
-### Development Tools
+### Tools
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,vscode"
+  src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"
   alt="Git GitHub VS Code"
 >
 
@@ -101,17 +105,18 @@ One of my main projects is **Read-Assist**, an accessibility-focused platform de
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rounded&color=0:020617,50:2563EB,100:F59E0B&height=110&section=header&text=READ--ASSIST&fontSize=34&fontColor=ffffff&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=rounded&color=0:020617,50:2563EB,100:F59E0B&height=105&section=header&text=READ--ASSIST&fontSize=34&fontColor=ffffff&animation=twinkling"
   width="90%"
   alt="Read-Assist"
 >
 
-### ♿ Accessible Digital Book & Audio Learning Platform
+<br>
 
-<p>
-  A Laravel-based web platform designed to help visually impaired users
-  access digital learning materials through audio and QR Code technology.
-</p>
+### ♿ Accessible Digital Learning Platform
+
+**A Laravel-based web platform that helps visually impaired users access digital learning materials through audio and QR Code technology.**
+
+<br>
 
 <a href="https://github.com/Ayries18/Read-Assist">
   <img
@@ -122,29 +127,31 @@ One of my main projects is **Read-Assist**, an accessibility-focused platform de
 
 </div>
 
-### ✨ What Read-Assist Does
+### ✨ Key Features
 
 | Feature | Description |
 |:---|:---|
 | 📚 **Digital Books** | Upload and manage digital learning materials |
-| 📄 **PDF Extraction** | Extract PDF text using `pdftotext` |
+| 📄 **PDF Extraction** | Automatic PDF text extraction with `pdftotext` |
 | 🔊 **Text-to-Speech** | Generate audio from book content |
-| 🔗 **QR Code** | Unique QR access for each book |
+| 🔗 **QR Code** | Unique QR access for individual books |
 | 🎧 **Audio Player** | Full player and persistent mini player |
-| 📊 **Learning Progress** | Track listening duration for users |
-| ♿ **Accessibility** | Built around accessibility requirements |
-| 🗣️ **Screen Reader** | Support for TalkBack and screen readers |
-| ⌨️ **Keyboard Navigation** | Full keyboard-oriented navigation |
-| 🎯 **WCAG** | Developed around WCAG 2.2 accessibility practices |
+| 📊 **Learning Progress** | Track listening duration per user |
+| ♿ **Accessibility** | Accessibility-focused interface |
+| 🗣️ **Screen Reader** | TalkBack and screen reader support |
+| ⌨️ **Keyboard Navigation** | Keyboard-oriented interaction and visible focus |
+| 🎯 **WCAG 2.2** | Accessibility practices aligned with WCAG 2.2 |
 
-### 🧰 Read-Assist Technology
+### 🧰 Read-Assist Stack
 
 <img
-  src="https://skillicons.dev/icons?i=php,laravel,sqlite,tailwind,js"
+  src="https://skillicons.dev/icons?i=php,laravel,sqlite,tailwind,js&perline=5"
   alt="Read-Assist technology stack"
 >
 
-**Additional tooling:** Blade, Vite, `pdftotext`, axe-core.
+<br>
+
+**Additional tooling:** Blade · Vite · `pdftotext` · axe-core
 
 ---
 
@@ -152,21 +159,38 @@ One of my main projects is **Read-Assist**, an accessibility-focused platform de
 
 ### 🌐 Portofolio
 
-A lightweight personal portfolio built with **HTML, CSS, and JavaScript**, focusing on responsive layout, simple navigation, dark-friendly design, and clean structure.
+A lightweight personal portfolio built with **HTML, CSS, and JavaScript**.
 
-**Technology:** HTML · CSS · JavaScript
+The project focuses on a simple structure, responsive layout, dark-friendly design, straightforward navigation, and a clean presentation.
 
-[View Repository](https://github.com/Ayries18/Portofolio) · [Live Website](https://ayries18.github.io/Portofolio/)
+**Stack:** HTML · CSS · JavaScript
+
+<a href="https://github.com/Ayries18/Portofolio">
+  <img
+    src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Portofolio repository"
+  >
+</a>
+
+<a href="https://ayries18.github.io/Portofolio/">
+  <img
+    src="https://img.shields.io/badge/Live%20Website-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Portofolio live website"
+  >
+</a>
 
 ---
 
 ### 🏪 LokaPreneur
 
-A Laravel-based local marketplace and product management application designed around product management, transactions, reporting, and dashboard-based monitoring.
+A Laravel-based application for managing products, local marketplace activities, transactions, and revenue reporting.
 
-**Technology:** Laravel · PHP · JavaScript · CSS · Database
+The project also includes a dashboard for presenting product and transaction information in a structured way.
 
-**Main Features:**
+**Stack:** Laravel · PHP · JavaScript · CSS
+
+**Main Features**
+
 - 📊 Dashboard summary
 - 📦 Product management
 - 🛒 Marketplace functionality
@@ -175,29 +199,42 @@ A Laravel-based local marketplace and product management application designed ar
 - 🔐 User authentication
 - 📱 Responsive interface
 
-[View Repository](https://github.com/Ayries18/LokaPreneur)
+<a href="https://github.com/Ayries18/LokaPreneur">
+  <img
+    src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="LokaPreneur repository"
+  >
+</a>
 
 ---
 
 ### 📰 Portal-Berita
 
-A Laravel-based news portal developed as a web programming project, focusing on structured article management, navigation, content presentation, and responsive interface design.
+A Laravel-based news portal developed as a web programming project.
 
-**Technology:** Laravel · PHP · Blade · JavaScript · CSS
+The application focuses on structured article presentation, navigation, responsive layout, and MVC-based development.
 
-**Main Features:**
+**Stack:** Laravel · PHP · Blade · JavaScript · CSS
+
+**Main Features**
+
 - 📰 Article listing
-- 📄 News detail pages
+- 📄 News detail
 - 🧭 Structured navigation
 - 📊 Content statistics
 - 📱 Responsive interface
 - 🧱 Laravel MVC architecture
 
-[View Repository](https://github.com/Ayries18/Portal-Berita)
+<a href="https://github.com/Ayries18/Portal-Berita">
+  <img
+    src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Portal-Berita repository"
+  >
+</a>
 
 ---
 
-## 🎯 Development Focus
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -206,19 +243,17 @@ A Laravel-based news portal developed as a web programming project, focusing on 
 
 <td align="center" width="50%">
 
-### 🌐
-**Web Development**
+### 🌐 Web Development
 
-Laravel · PHP · JavaScript
+**Laravel · PHP · JavaScript**
 
 </td>
 
 <td align="center" width="50%">
 
-### ♿
-**Accessibility**
+### ♿ Accessibility
 
-Inclusive & Accessible Interfaces
+**Inclusive & Accessible Interfaces**
 
 </td>
 
@@ -228,19 +263,17 @@ Inclusive & Accessible Interfaces
 
 <td align="center" width="50%">
 
-### 🔊
-**Audio Technology**
+### 🔊 Audio Technology
 
-Text-to-Speech & Audio Learning
+**Text-to-Speech · Audio Learning**
 
 </td>
 
 <td align="center" width="50%">
 
-### 🧩
-**Web Application**
+### 🧩 Application Development
 
-MVC · Database · Clean Structure
+**MVC · Database · Maintainable Code**
 
 </td>
 
@@ -251,7 +284,7 @@ MVC · Database · Clean Structure
 
 <img
   src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&height=40&lines=Learning+%E2%86%92+Building+%E2%86%92+Testing+%E2%86%92+Improving"
-  alt="Development process"
+  alt="Development process animation"
 >
 
 </div>
@@ -263,16 +296,17 @@ MVC · Database · Clean Structure
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│        PRACTICAL WEB APPLICATIONS               │
-│                     │                           │
-│          ┌──────────┼──────────┐                │
-│          ↓          ↓          ↓                │
-│       Laravel   Accessibility  UX               │
-│          │          │          │                │
-│          └──────────┼──────────┘                │
-│                     ↓                           │
-│          Useful & Accessible Systems            │
-│                                                 │
-└─────────────────────────────────────────────────┘
+                    ┌──────────────────┐
+                    │   WEB APPLICATION │
+                    └────────┬─────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+              ▼              ▼              ▼
+         Laravel / PHP   Accessibility      UX
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                 ┌────────────────────────┐
+                 │ Useful Digital Systems │
+                 └────────────────────────┘
