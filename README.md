@@ -2,7 +2,7 @@
 
 ![Muhammad Almuwarisin](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,75:2563EB,100:F59E0B&height=220&section=header&text=Muhammad%20Almuwarisin&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20Web%20Developer%20%7C%20Accessibility%20Focused&descSize=16&descAlignY=58&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Hi%2C+I'm+Muhammad+Almuwarisin;Information+Technology+Student;Laravel+Web+Developer;Building+Accessible+Web+Applications;Creator+of+Read-Assist)](https://github.com/Ayries18)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Hi%2C+I'm+Muhammad+Almuwarisin;Information+Technology+Student;Laravel+Web+Developer;Building+Accessible+Web+Applications;Creator+of+Read-Assist)](https://github.com/Ayries18)
 
 <br>
 
@@ -20,7 +20,7 @@ I'm **Muhammad Almuwarisin**, an Information Technology student from Aceh, Indon
 
 I enjoy building web applications that are practical, structured, and accessible. My current development focus is **Laravel and PHP**, supported by JavaScript, Blade, Tailwind CSS, and database-driven application development.
 
-I'm particularly interested in how web technology can make digital information easier to access. This interest led to **Read-Assist**, one of my main projects, which focuses on accessible digital learning through audio, Text-to-Speech, and QR Code access.
+I'm particularly interested in how technology can make digital information easier to access. This interest led me to build **Read-Assist**, an accessibility-focused platform for digital learning materials through audio, Text-to-Speech, and QR Code access.
 
 ---
 
@@ -62,27 +62,27 @@ I'm particularly interested in how web technology can make digital information e
 
 ### ♿ Accessible Digital Learning Platform
 
-**Read-Assist** is a Laravel-based web platform that helps visually impaired users access digital learning materials through audio and QR Code technology.
+**Read-Assist** is a Laravel-based web platform designed to help visually impaired users access digital learning materials through audio and QR Code technology.
 
 [![View Read-Assist](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18/Read-Assist)
 
 </div>
 
-### What It Does
+### ✨ What It Does
 
 | Feature | Description |
 |:---|:---|
-| 📚 Digital Books | Upload and manage digital learning materials |
-| 📄 PDF Extraction | Extract PDF text using `pdftotext` |
-| 🔊 Text-to-Speech | Generate audio from text content |
-| 🔗 QR Code | Provide unique QR access to books |
-| 🎧 Audio Player | Full player and persistent mini player |
-| 📊 Learning Progress | Track listening duration per user |
-| 🗣️ Screen Reader | Support for TalkBack and screen readers |
-| ⌨️ Keyboard Navigation | Keyboard-oriented interaction with visible focus |
-| ♿ Accessibility | High-contrast and accessibility-focused interface |
+| 📚 **Digital Books** | Upload and manage digital learning materials |
+| 📄 **PDF Extraction** | Extract PDF text using `pdftotext` |
+| 🔊 **Text-to-Speech** | Generate audio from text content |
+| 🔗 **QR Code** | Provide unique QR access to books |
+| 🎧 **Audio Player** | Full player and persistent mini player |
+| 📊 **Learning Progress** | Track listening duration per user |
+| 🗣️ **Screen Reader** | Support for TalkBack and screen readers |
+| ⌨️ **Keyboard Navigation** | Keyboard-oriented interaction with visible focus |
+| ♿ **Accessibility** | High-contrast and accessibility-focused interface |
 
-### Technology
+### 🧰 Technology
 
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
@@ -92,26 +92,37 @@ I'm particularly interested in how web technology can make digital information e
 
 **Additional tooling:** Blade · Vite · `pdftotext` · axe-core
 
-Read-Assist's repository documents WCAG 2.2-oriented accessibility practices and axe-core verification, alongside TalkBack/screen-reader and keyboard support. :contentReference[oaicite:5]{index=5}
-
 ---
 
 ## 📂 Other Projects
 
 ### 🌐 Portofolio
 
-A lightweight personal portfolio built with **HTML, CSS, and JavaScript**, with a focus on responsive layout, simple navigation, clean structure, and GitHub Pages deployment. :contentReference[oaicite:6]{index=6}
+A lightweight personal portfolio built with **HTML, CSS, and JavaScript**, focused on responsive layout, simple navigation, clean structure, and website presentation.
+
+**Technology:** HTML · CSS · JavaScript
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18/Portofolio)
+
 [![Live Website](https://img.shields.io/badge/Live%20Website-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayries18.github.io/Portofolio/)
 
 ---
 
 ### 🏪 LokaPreneur
 
-A Laravel-based application for managing products, marketplace activities, transactions, and revenue reporting for small and local businesses.
+A Laravel-based application focused on product management, marketplace activities, transactions, revenue reporting, and dashboard-based monitoring.
 
-The project includes a central dashboard, product management, marketplace functionality, transaction recap, revenue reporting, user authentication, and responsive presentation. :contentReference[oaicite:7]{index=7}
+**Technology:** Laravel · PHP · JavaScript · CSS
+
+**Main Features:**
+
+- 📊 Dashboard
+- 📦 Product management
+- 🛒 Marketplace functionality
+- 💰 Transaction recap
+- 📈 Revenue reports
+- 🔐 User authentication
+- 📱 Responsive interface
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18/LokaPreneur)
 
@@ -119,7 +130,18 @@ The project includes a central dashboard, product management, marketplace functi
 
 ### 📰 Portal-Berita
 
-A Laravel-based web project focused on presenting and managing news content through a structured web interface.
+A Laravel-based news portal project focused on structured content presentation and web application development.
+
+**Technology:** Laravel · PHP · Blade · JavaScript · CSS
+
+**Main Features:**
+
+- 📰 Article listing
+- 📄 News detail pages
+- 🧭 Structured navigation
+- 📊 Content presentation
+- 📱 Responsive interface
+- 🧱 Laravel MVC architecture
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18/Portal-Berita)
 
@@ -129,13 +151,9 @@ A Laravel-based web project focused on presenting and managing news content thro
 
 <div align="center">
 
-| 🌐 Web Development | ♿ Accessibility |
-|:---:|:---:|
-| Laravel · PHP · JavaScript | Inclusive Web Interfaces |
-
-| 🔊 Audio Technology | 🧩 Application Development |
-|:---:|:---:|
-| Text-to-Speech · Audio Learning | MVC · Database-driven Systems |
+| 🌐 Web Development | ♿ Accessibility | 🔊 Audio Technology | 🧩 Web Applications |
+|:---:|:---:|:---:|:---:|
+| Laravel · PHP · JavaScript | Inclusive Interfaces | Text-to-Speech · Audio Learning | MVC · Database-driven Systems |
 
 </div>
 
@@ -151,6 +169,8 @@ A Laravel-based web project focused on presenting and managing news content thro
 
 ## 🧠 How I Build
 
+<div align="center">
+
 ```text
 Problem
    ↓
@@ -163,3 +183,27 @@ Build
 Test
    ↓
 Improve
+```
+
+</div>
+
+I prefer learning through practical projects and improving systems through iteration.
+
+---
+
+## 🌱 Currently Learning
+
+- Laravel and PHP application development
+- Database-driven web applications
+- Accessible interface design
+- Text-to-Speech and audio-based learning
+- Clean and maintainable application structure
+- Secure web development practices
+
+---
+
+<div align="center">
+
+![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:F59E0B&height=100&section=footer&animation=twinkling)
+
+</div>
