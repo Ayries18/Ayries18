@@ -1,78 +1,58 @@
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
+<!-- ==================== HERO ==================== -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,75:2563EB,100:F59E0B&height=230&section=header&text=Muhammad%20Almuwarisin&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20Web%20Developer%20%7C%20Accessibility%20Enthusiast&descSize=16&descAlignY=58&descAlign=50"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,75:2563EB,100:F59E0B&height=230&section=header&text=Muhammad%20Almuwarisin&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20Web%20Developer%20%7C%20Accessibility%20Focused&descSize=16&descAlignY=58&descAlign=50"
   width="100%"
-  alt="Muhammad Almuwarisin profile header"
-/>
+  alt="Muhammad Almuwarisin"
+>
 
 <br>
-
-<!-- ==================== TYPING ==================== -->
-
-<a href="https://github.com/Ayries18">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&repeat=true&random=false&width=800&height=55&lines=Hi%2C+I'm+Muhammad+Almuwarisin;Information+Technology+Student;Laravel+Web+Developer;Creator+of+Read-Assist;Building+Useful+%26+Accessible+Technology"
-    alt="Typing animation"
-  />
-</a>
-
-<br>
-
-<!-- ==================== STATUS ==================== -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:1E3A8A&height=45&section=header&text=●%20Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Improving&fontSize=15&fontColor=F59E0B&animation=blinking"
-  width="500"
-  alt="Currently learning and building"
-/>
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Hi%2C+I'm+Muhammad+Almuwarisin;Information+Technology+Student;Laravel+Web+Developer;Building+Accessible+Web+Applications;Creator+of+Read-Assist"
+  alt="Typing animation"
+>
 
 <br><br>
-
-<!-- ==================== SOCIAL ==================== -->
 
 <a href="https://github.com/Ayries18">
   <img
     src="https://img.shields.io/badge/GitHub-Ayries18-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
-  />
+  >
 </a>
 
 <a href="https://ayries18.github.io/Portofolio/">
   <img
     src="https://img.shields.io/badge/Portfolio-Website-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white"
     alt="Portfolio"
-  />
+  >
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-almuwarisin-934079376/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
-  />
+  >
 </a>
 
 </div>
 
-<br>
-
 ---
-
-<!-- ==================== ABOUT ==================== -->
 
 ## 👋 About Me
 
-Hi, I'm **Muhammad Almuwarisin**, an Information Technology student from Aceh, Indonesia.
+I'm **Muhammad Almuwarisin**, an Information Technology student from Aceh, Indonesia.
 
-I enjoy building useful and accessible web applications that solve practical problems. My main interests are **web development, accessibility, and user-centered technology**.
+I enjoy developing web applications with a focus on **practical functionality, clean interfaces, and accessibility**.
 
-Currently, I'm focusing on **Laravel development**, accessibility-focused interfaces, and building real-world projects while continuously improving my technical skills.
+My main development experience is centered around **Laravel, PHP, Blade, JavaScript, Tailwind CSS, and database-driven web applications**.
+
+One of my main projects is **Read-Assist**, an accessibility-focused platform designed to help visually impaired users access digital learning materials through audio, Text-to-Speech, and QR Code technology.
 
 ---
-
-<!-- ==================== TECH STACK ==================== -->
 
 ## 🛠️ Tech Stack
 
@@ -81,42 +61,40 @@ Currently, I'm focusing on **Laravel development**, accessibility-focused interf
 ### Frontend
 
 <img
-  src="https://skillicons.dev/icons?i=html,css,js,tailwind&perline=4"
+  src="https://skillicons.dev/icons?i=html,css,js,tailwind"
   alt="HTML CSS JavaScript Tailwind CSS"
-/>
+>
 
 <br><br>
 
 ### Backend
 
 <img
-  src="https://skillicons.dev/icons?i=php,laravel&perline=2"
+  src="https://skillicons.dev/icons?i=php,laravel"
   alt="PHP Laravel"
-/>
+>
 
 <br><br>
 
 ### Database
 
 <img
-  src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2"
-  alt="MySQL SQLite"
-/>
+  src="https://skillicons.dev/icons?i=sqlite,mysql"
+  alt="SQLite MySQL"
+>
 
 <br><br>
 
-### Tools
+### Development Tools
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"
+  src="https://skillicons.dev/icons?i=git,github,vscode"
   alt="Git GitHub VS Code"
-/>
+>
 
 </div>
 
 ---
-
-<!-- ==================== FEATURED PROJECT ==================== -->
 
 ## 🚀 Featured Project
 
@@ -126,104 +104,175 @@ Currently, I'm focusing on **Laravel development**, accessibility-focused interf
   src="https://capsule-render.vercel.app/api?type=rounded&color=0:020617,50:2563EB,100:F59E0B&height=110&section=header&text=READ--ASSIST&fontSize=34&fontColor=ffffff&animation=twinkling"
   width="90%"
   alt="Read-Assist"
-/>
+>
 
-<br>
-
-### ♿ Accessible Digital Book & Audio Platform
+### ♿ Accessible Digital Book & Audio Learning Platform
 
 <p>
-  A web-based accessibility platform designed to improve access
-  to digital learning materials for visually impaired users.
+  A Laravel-based web platform designed to help visually impaired users
+  access digital learning materials through audio and QR Code technology.
 </p>
-
-<br>
 
 <a href="https://github.com/Ayries18/Read-Assist">
   <img
-    src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"
-    alt="View Read-Assist Project"
-  />
+    src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Read-Assist repository"
+  >
 </a>
 
 </div>
 
-### ✨ Key Features
+### ✨ What Read-Assist Does
 
 | Feature | Description |
 |:---|:---|
-| 📚 **PDF / EPUB** | Text extraction from digital books |
-| 🔊 **Text-to-Speech** | Automatic audio generation |
-| 🔗 **QR Code** | Quick access to audio content |
-| 🎧 **Audio Player** | Screen-reader-friendly playback |
-| ♿ **Accessibility** | Interface designed with accessibility in mind |
-| 📖 **Book Management** | Digital book and audio management |
+| 📚 **Digital Books** | Upload and manage digital learning materials |
+| 📄 **PDF Extraction** | Extract PDF text using `pdftotext` |
+| 🔊 **Text-to-Speech** | Generate audio from book content |
+| 🔗 **QR Code** | Unique QR access for each book |
+| 🎧 **Audio Player** | Full player and persistent mini player |
+| 📊 **Learning Progress** | Track listening duration for users |
+| ♿ **Accessibility** | Built around accessibility requirements |
+| 🗣️ **Screen Reader** | Support for TalkBack and screen readers |
+| ⌨️ **Keyboard Navigation** | Full keyboard-oriented navigation |
+| 🎯 **WCAG** | Developed around WCAG 2.2 accessibility practices |
+
+### 🧰 Read-Assist Technology
+
+<img
+  src="https://skillicons.dev/icons?i=php,laravel,sqlite,tailwind,js"
+  alt="Read-Assist technology stack"
+>
+
+**Additional tooling:** Blade, Vite, `pdftotext`, axe-core.
 
 ---
-
-<!-- ==================== OTHER PROJECTS ==================== -->
 
 ## 📂 Other Projects
 
-<div align="center">
+### 🌐 Portofolio
 
-| Project | Description | Technology |
-|:---|:---|:---:|
-| [**Portofolio**](https://github.com/Ayries18/Portofolio) | Personal portfolio website | CSS |
-| [**LokaPreneur**](https://github.com/Ayries18/LokaPreneur) | Web project built with Blade | Blade |
-| [**Portal-Berita**](https://github.com/Ayries18/Portal-Berita) | News portal web project | Blade |
+A lightweight personal portfolio built with **HTML, CSS, and JavaScript**, focusing on responsive layout, simple navigation, dark-friendly design, and clean structure.
 
-</div>
+**Technology:** HTML · CSS · JavaScript
+
+[View Repository](https://github.com/Ayries18/Portofolio) · [Live Website](https://ayries18.github.io/Portofolio/)
 
 ---
 
-<!-- ==================== FOCUS ==================== -->
+### 🏪 LokaPreneur
+
+A Laravel-based local marketplace and product management application designed around product management, transactions, reporting, and dashboard-based monitoring.
+
+**Technology:** Laravel · PHP · JavaScript · CSS · Database
+
+**Main Features:**
+- 📊 Dashboard summary
+- 📦 Product management
+- 🛒 Marketplace functionality
+- 💰 Transaction recap
+- 📈 Revenue reports
+- 🔐 User authentication
+- 📱 Responsive interface
+
+[View Repository](https://github.com/Ayries18/LokaPreneur)
+
+---
+
+### 📰 Portal-Berita
+
+A Laravel-based news portal developed as a web programming project, focusing on structured article management, navigation, content presentation, and responsive interface design.
+
+**Technology:** Laravel · PHP · Blade · JavaScript · CSS
+
+**Main Features:**
+- 📰 Article listing
+- 📄 News detail pages
+- 🧭 Structured navigation
+- 📊 Content statistics
+- 📱 Responsive interface
+- 🧱 Laravel MVC architecture
+
+[View Repository](https://github.com/Ayries18/Portal-Berita)
+
+---
 
 ## 🎯 Development Focus
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1E3A8A&height=55&section=header&text=Laravel%20Web%20Development&fontSize=18&fontColor=ffffff&animation=fadeIn"
-  width="70%"
-  alt="Laravel Web Development"
-/>
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🌐
+**Web Development**
+
+Laravel · PHP · JavaScript
+
+</td>
+
+<td align="center" width="50%">
+
+### ♿
+**Accessibility**
+
+Inclusive & Accessible Interfaces
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🔊
+**Audio Technology**
+
+Text-to-Speech & Audio Learning
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧩
+**Web Application**
+
+MVC · Database · Clean Structure
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1E3A8A&height=55&section=header&text=Accessibility%20%26%20Inclusive%20Technology&fontSize=18&fontColor=ffffff&animation=fadeIn"
-  width="70%"
-  alt="Accessibility and Inclusive Technology"
-/>
-
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1E3A8A&height=55&section=header&text=Text--to--Speech%20%26%20Audio%20Learning&fontSize=18&fontColor=ffffff&animation=fadeIn"
-  width="70%"
-  alt="Text to Speech and Audio Learning"
-/>
-
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1E3A8A&height=55&section=header&text=Cyber%20Security&fontSize=18&fontColor=ffffff&animation=fadeIn"
-  width="70%"
-  alt="Cyber Security"
-/>
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&height=40&lines=Learning+%E2%86%92+Building+%E2%86%92+Testing+%E2%86%92+Improving"
+  alt="Development process"
+>
 
 </div>
 
 ---
 
-<!-- ==================== CURRENTLY ==================== -->
-
-## ⚡ Currently
+## 🧠 What I Build
 
 <div align="center">
 
 ```text
-Learning     →     Building     →     Testing     →     Improving
-   ↓                ↓                ↓                 ↓
- Laravel          Projects       New Ideas        Better Solutions
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│        PRACTICAL WEB APPLICATIONS               │
+│                     │                           │
+│          ┌──────────┼──────────┐                │
+│          ↓          ↓          ↓                │
+│       Laravel   Accessibility  UX               │
+│          │          │          │                │
+│          └──────────┼──────────┘                │
+│                     ↓                           │
+│          Useful & Accessible Systems            │
+│                                                 │
+└─────────────────────────────────────────────────┘
