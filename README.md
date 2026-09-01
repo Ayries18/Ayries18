@@ -21,9 +21,13 @@ I enjoy working with Laravel, PHP, JavaScript, Tailwind CSS, and accessibility-f
 **Read-Assist** is an accessibility-focused audio book platform for visually impaired users.  
 It supports PDF/EPUB text extraction, automatic Text-to-Speech generation, QR Code routing, and a screen-reader-friendly audio player.
 
+<div align="center">
+
 <a href="https://github.com/Ayries18/Read-Assist">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayries18&repo=Read-Assist&theme=tokyonight&hide_border=true" />
 </a>
+
+</div>
 
 ---
 
