@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!-- PIXEL HERO -->
-<!-- ========================================================= -->
+![Pixel Hero](https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1D4ED8,70:2563EB,100:F59E0B&height=175&section=header&animation=twinkling)
 
-![Pixel Hero](https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1D4ED8,70:2563EB,100:F59E0B&height=180&section=header&animation=twinkling)
-
-[![Pixel Intro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&repeat=true&width=900&height=80&lines=MUHAMMAD+ALMUWARISIN;MAHASISWA+TEKNOLOGI+INFORMASI;WEB+DEVELOPER;ACCESSIBILITY+FOCUSED;CREATOR+OF+READ--ASSIST)](https://github.com/Ayries18)
+[![Pixel Intro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&repeat=true&width=900&height=75&lines=MUHAMMAD+ALMUWARISIN;MAHASISWA+TEKNOLOGI+INFORMASI;WEB+DEVELOPER;ACCESSIBILITY+FOCUSED;CREATOR+OF+READ--ASSIST)](https://github.com/Ayries18)
 
 <br>
 
@@ -22,11 +18,11 @@
 
 Saya **Muhammad Almuwarisin**, mahasiswa **Teknologi Informasi dari Aceh, Indonesia**.
 
-Saya tertarik pada pengembangan aplikasi web yang **fungsional, terstruktur, dan mudah diakses**. Saat ini saya banyak menggunakan **Laravel dan PHP**, dengan JavaScript, Blade, Tailwind CSS, dan SQLite sebagai bagian dari pengembangan aplikasi.
+Saya tertarik pada pengembangan aplikasi web yang **fungsional, terstruktur, dan mudah diakses**. Fokus utama saya adalah **Laravel dan PHP**, dengan JavaScript, Blade, Tailwind CSS, dan SQLite sebagai bagian dari pengembangan aplikasi.
 
-Saya juga tertarik pada **accessibility dan teknologi inklusif**, terutama bagaimana teknologi dapat membantu membuat informasi digital lebih mudah diakses oleh lebih banyak orang.
+Saya juga tertarik pada **accessibility dan teknologi inklusif**, terutama bagaimana teknologi dapat membantu membuat informasi digital lebih mudah diakses.
 
-Salah satu proyek utama yang saya kembangkan adalah **Read-Assist**, sebuah platform pembelajaran digital yang memanfaatkan audio, Text-to-Speech, dan QR Code untuk membantu akses terhadap materi pembelajaran.
+Salah satu proyek utama saya adalah **Read-Assist**, platform pembelajaran digital yang memanfaatkan audio, Text-to-Speech, dan QR Code untuk membantu akses terhadap materi pembelajaran.
 
 ---
 
@@ -34,7 +30,7 @@ Salah satu proyek utama yang saya kembangkan adalah **Read-Assist**, sebuah plat
 
 <div align="center">
 
-### Backend & Framework
+### Backend
 
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
@@ -70,7 +66,7 @@ Salah satu proyek utama yang saya kembangkan adalah **Read-Assist**, sebuah plat
 
 **Platform pembelajaran digital yang berfokus pada aksesibilitas bagi pengguna dengan gangguan penglihatan.**
 
-Read-Assist dikembangkan untuk membantu pengguna mengakses materi digital melalui **buku digital, Text-to-Speech, audio, dan QR Code**.
+Read-Assist membantu akses terhadap materi digital melalui **buku digital, Text-to-Speech, audio, dan QR Code**.
 
 [![Repository](https://img.shields.io/badge/Lihat%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18/Read-Assist)
 
@@ -84,9 +80,9 @@ Read-Assist dikembangkan untuk membantu pengguna mengakses materi digital melalu
 | 📄 **Ekstraksi PDF** | Ekstraksi teks menggunakan `pdftotext` |
 | 🔊 **Text-to-Speech** | Mengubah teks menjadi audio |
 | 🔗 **QR Code** | Akses cepat menuju materi audio |
-| 🎧 **Audio Player** | Pemutaran audio dengan player utama dan mini player |
-| 📊 **Progress Belajar** | Pencatatan durasi dan progres mendengarkan |
-| 🗣️ **Screen Reader** | Dukungan untuk TalkBack dan screen reader |
+| 🎧 **Audio Player** | Pemutaran audio |
+| 📊 **Progress Belajar** | Pencatatan progres mendengarkan |
+| 🗣️ **Screen Reader** | Dukungan TalkBack dan screen reader |
 | ⌨️ **Navigasi Keyboard** | Interaksi berbasis keyboard |
 | ♿ **Accessibility** | Antarmuka yang berorientasi pada aksesibilitas |
 
@@ -106,7 +102,7 @@ Read-Assist dikembangkan untuk membantu pengguna mengakses materi digital melalu
 
 ### 🌐 Portofolio
 
-Website portofolio pribadi yang dibuat menggunakan **HTML, CSS, dan JavaScript**, dengan fokus pada tampilan responsif dan struktur yang sederhana.
+Website portofolio pribadi yang dibuat menggunakan **HTML, CSS, dan JavaScript** dengan fokus pada tampilan responsif dan struktur sederhana.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18/Portofolio)
 [![Website](https://img.shields.io/badge/Website-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayries18.github.io/Portofolio/)
@@ -129,17 +125,23 @@ Aplikasi portal berita berbasis Laravel yang berfokus pada **penyajian artikel, 
 
 ---
 
-## 🎯 Fokus Saya
+## 🎯 Fokus Pengembangan
 
 <div align="center">
 
-| 🌐 Pengembangan Web | ♿ Aksesibilitas |
-|:---:|:---:|
-| Laravel · PHP · JavaScript | Web Inklusif |
+| 🌐 Web Development | ♿ Accessibility | 🔊 Audio Technology |
+|:---:|:---:|:---:|
+| Laravel · PHP · JavaScript | Web Inklusif | Text-to-Speech · Audio Learning |
 
-| 🔊 Teknologi Audio | 🧩 Aplikasi Web |
-|:---:|:---:|
-| Text-to-Speech · Audio Learning | MVC · Database |
+</div>
+
+---
+
+## 👾 Contribution Arcade
+
+<div align="center">
+
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph.svg)
 
 </div>
 
@@ -153,28 +155,6 @@ Aplikasi portal berita berbasis Laravel yang berfokus pada **penyajian artikel, 
 - Text-to-Speech dan pembelajaran berbasis audio
 - Struktur aplikasi yang bersih dan mudah dipelihara
 - Praktik pengembangan web yang aman
-
----
-
-## 👾 Contribution Arcade
-
-<div align="center">
-
-![Pac-Man Contribution](https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman.svg)
-
-</div>
-
----
-
-## 💻 Cara Saya Berkembang
-
-<div align="center">
-
-[![Pixel Learning](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&duration=2600&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=850&height=40&lines=BELAJAR;MEMBANGUN;MENGUJI;MEMPERBAIKI;MENGULANGI)](https://github.com/Ayries18)
-
-</div>
-
-Saya belajar terutama melalui proyek nyata, mencoba menerapkan apa yang saya pelajari, menguji hasilnya, lalu memperbaikinya secara bertahap.
 
 ---
 
@@ -194,6 +174,6 @@ Saya belajar terutama melalui proyek nyata, mencoba menerapkan apa yang saya pel
 
 <div align="center">
 
-![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1D4ED8,75:2563EB,100:F59E0B&height=100&section=footer&animation=twinkling)
+![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1D4ED8,75:2563EB,100:F59E0B&height=95&section=footer&animation=twinkling)
 
 </div>
