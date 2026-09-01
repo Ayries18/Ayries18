@@ -139,8 +139,6 @@ Aplikasi portal berita berbasis Laravel yang berfokus pada **penyajian artikel, 
 
 ## 👾 Contribution Arcade
 
-## 👾 Contribution Arcade
-
 <div align="center">
 
 <picture>
