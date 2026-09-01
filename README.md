@@ -1,8 +1,12 @@
 <div align="center">
 
-![Muhammad Almuwarisin](https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1D4ED8,75:2563EB,100:F59E0B&height=200&section=header&animation=twinkling)
+<!-- ========================================================= -->
+<!-- PIXEL HERO -->
+<!-- ========================================================= -->
 
-[![Pixel Intro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&repeat=true&width=900&height=85&lines=MUHAMMAD+ALMUWARISIN;INFORMATION+TECHNOLOGY+STUDENT;WEB+DEVELOPER;ACCESSIBILITY+FOCUSED;CREATOR+OF+READ--ASSIST)](https://github.com/Ayries18)
+![Pixel Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1D4ED8,70:2563EB,100:F59E0B&height=190&section=header&animation=twinkling)
+
+[![Pixel Intro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=15&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&repeat=true&width=900&height=80&lines=MUHAMMAD+ALMUWARISIN;INFORMATION+TECHNOLOGY+STUDENT;WEB+DEVELOPER;ACCESSIBILITY+FOCUSED;CREATOR+OF+READ--ASSIST)](https://github.com/Ayries18)
 
 <br>
 
@@ -33,7 +37,6 @@ I'm especially interested in making digital information easier to access through
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Blade](https://skillicons.dev/icons?i=html)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
@@ -82,7 +85,7 @@ I'm especially interested in making digital information easier to access through
 | ⌨️ **Keyboard Navigation** | Keyboard-oriented interaction |
 | ♿ **Accessibility** | High-contrast and accessibility-focused interface |
 
-### Technology Used
+### 🧩 Technology Used
 
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
@@ -101,6 +104,7 @@ I'm especially interested in making digital information easier to access through
 A personal portfolio website built with **HTML, CSS, and JavaScript**, focused on responsive layout, simple navigation, and clean presentation.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18/Portofolio)
+
 [![Live Website](https://img.shields.io/badge/Live%20Website-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayries18.github.io/Portofolio/)
 
 ---
@@ -139,7 +143,7 @@ A Laravel-based news portal project focused on **article presentation, structure
 
 <div align="center">
 
-[![Learning Process](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=3000&pause=1100&color=94A3B8&center=true&vCenter=true&repeat=true&width=850&height=40&lines=LEARN;BUILD;TEST;IMPROVE;REPEAT)](https://github.com/Ayries18)
+[![Pixel Learning](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=850&height=40&lines=LEARN;BUILD;TEST;IMPROVE;REPEAT)](https://github.com/Ayries18)
 
 </div>
 
@@ -170,6 +174,6 @@ A Laravel-based news portal project focused on **article presentation, structure
 
 <div align="center">
 
-![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,75:2563EB,100:F59E0B&height=100&section=footer&animation=twinkling)
+![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1D4ED8,75:2563EB,100:F59E0B&height=100&section=footer&animation=twinkling)
 
 </div>
