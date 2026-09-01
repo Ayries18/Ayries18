@@ -1,8 +1,12 @@
 <div align="center">
 
-![Pixel Hero](https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1D4ED8,70:2563EB,100:F59E0B&height=175&section=header&animation=twinkling)
+<!-- ========================================================= -->
+<!-- PIXEL HERO -->
+<!-- ========================================================= -->
 
-[![Pixel Intro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&repeat=true&width=900&height=75&lines=MUHAMMAD+ALMUWARISIN;MAHASISWA+TEKNOLOGI+INFORMASI;WEB+DEVELOPER;ACCESSIBILITY+FOCUSED;CREATOR+OF+READ--ASSIST)](https://github.com/Ayries18)
+![Pixel Hero](https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1D4ED8,70:2563EB,100:F59E0B&height=180&section=header&animation=twinkling)
+
+[![Pixel Intro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&repeat=true&width=900&height=80&lines=MUHAMMAD+ALMUWARISIN;MAHASISWA+TEKNOLOGI+INFORMASI;WEB+DEVELOPER;FOKUS+PADA+AKSESIBILITAS;CREATOR+OF+READ--ASSIST)](https://github.com/Ayries18)
 
 <br>
 
@@ -20,9 +24,9 @@ Saya **Muhammad Almuwarisin**, mahasiswa **Teknologi Informasi dari Aceh, Indone
 
 Saya tertarik pada pengembangan aplikasi web yang **fungsional, terstruktur, dan mudah diakses**. Fokus utama saya adalah **Laravel dan PHP**, dengan JavaScript, Blade, Tailwind CSS, dan SQLite sebagai bagian dari pengembangan aplikasi.
 
-Saya juga tertarik pada **accessibility dan teknologi inklusif**, terutama bagaimana teknologi dapat membantu membuat informasi digital lebih mudah diakses.
+Saya juga tertarik pada **aksesibilitas dan teknologi inklusif**, khususnya bagaimana teknologi dapat membantu membuat informasi digital lebih mudah diakses.
 
-Salah satu proyek utama saya adalah **Read-Assist**, platform pembelajaran digital yang memanfaatkan audio, Text-to-Speech, dan QR Code untuk membantu akses terhadap materi pembelajaran.
+Salah satu proyek utama yang saya kembangkan adalah **Read-Assist**, sebuah platform pembelajaran digital yang memanfaatkan **buku digital, Text-to-Speech, audio, dan QR Code** untuk membantu akses terhadap materi pembelajaran.
 
 ---
 
@@ -30,7 +34,7 @@ Salah satu proyek utama saya adalah **Read-Assist**, platform pembelajaran digit
 
 <div align="center">
 
-### Backend
+### Backend & Framework
 
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
@@ -66,9 +70,9 @@ Salah satu proyek utama saya adalah **Read-Assist**, platform pembelajaran digit
 
 **Platform pembelajaran digital yang berfokus pada aksesibilitas bagi pengguna dengan gangguan penglihatan.**
 
-Read-Assist membantu akses terhadap materi digital melalui **buku digital, Text-to-Speech, audio, dan QR Code**.
+Read-Assist membantu pengguna mengakses materi digital melalui **buku digital, Text-to-Speech, audio, dan QR Code**.
 
-[![Repository](https://img.shields.io/badge/Lihat%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18/Read-Assist)
+[![Lihat Repository](https://img.shields.io/badge/Lihat%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18/Read-Assist)
 
 </div>
 
@@ -102,7 +106,7 @@ Read-Assist membantu akses terhadap materi digital melalui **buku digital, Text-
 
 ### 🌐 Portofolio
 
-Website portofolio pribadi yang dibuat menggunakan **HTML, CSS, dan JavaScript** dengan fokus pada tampilan responsif dan struktur sederhana.
+Website portofolio pribadi yang dibuat menggunakan **HTML, CSS, dan JavaScript**, dengan fokus pada tampilan responsif, struktur sederhana, dan penyajian informasi.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18/Portofolio)
 [![Website](https://img.shields.io/badge/Website-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayries18.github.io/Portofolio/)
@@ -129,7 +133,7 @@ Aplikasi portal berita berbasis Laravel yang berfokus pada **penyajian artikel, 
 
 <div align="center">
 
-| 🌐 Web Development | ♿ Accessibility | 🔊 Audio Technology |
+| 🌐 Pengembangan Web | ♿ Aksesibilitas | 🔊 Teknologi Audio |
 |:---:|:---:|:---:|
 | Laravel · PHP · JavaScript | Web Inklusif | Text-to-Speech · Audio Learning |
 
@@ -151,12 +155,14 @@ Aplikasi portal berita berbasis Laravel yang berfokus pada **penyajian artikel, 
     srcset="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph.svg"
   >
   <img
-    alt="Pac-Man contribution graph"
     src="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph.svg"
+    alt="Pac-Man contribution graph"
   >
 </picture>
 
 </div>
+
+---
 
 ## 🌱 Sedang Saya Pelajari
 
@@ -174,9 +180,7 @@ Aplikasi portal berita berbasis Laravel yang berfokus pada **penyajian artikel, 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ayries18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayries18.github.io/Portofolio/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-almuwarisin-934079376/)
 
 </div>
@@ -185,6 +189,6 @@ Aplikasi portal berita berbasis Laravel yang berfokus pada **penyajian artikel, 
 
 <div align="center">
 
-![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1D4ED8,75:2563EB,100:F59E0B&height=95&section=footer&animation=twinkling)
+![Pixel Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1D4ED8,75:2563EB,100:F59E0B&height=95&section=footer&animation=twinkling)
 
 </div>
