@@ -139,13 +139,26 @@ Aplikasi portal berita berbasis Laravel yang berfokus pada **penyajian artikel, 
 
 ## 👾 Contribution Arcade
 
+## 👾 Contribution Arcade
+
 <div align="center">
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph.svg"
+  >
+</picture>
 
 </div>
-
----
 
 ## 🌱 Sedang Saya Pelajari
 
