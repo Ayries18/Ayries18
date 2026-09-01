@@ -1,74 +1,65 @@
+Hi, I'm **Muhammad Almuwarisin**, an Information Technology student who focuses on building useful, accessible, and user-centered web applications.
+
+I enjoy working with Laravel, PHP, JavaScript, Tailwind CSS, and accessibility-focused interface design. One of my highlighted projects is **Read-Assist**, a web platform that helps visually impaired users access digital books through audio, Text-to-Speech, and QR Code technology.
+
+---
+
+## Tech Stack
+
 <div align="center">
 
-<h1>👋 Muhammad Almuwarisin</h1>
-
-<p>
-🎓 Mahasiswa Teknologi Informasi<br>
-💻 Minat pada Pengembangan Web dan Aplikasi<br>
-📍 Banda Aceh, Indonesia
-</p>
-
-<p>
-<a href="mailto:muwarisin@gmail.com">📧 Email</a> ·
-<a href="https://github.com/Ayries18">💼 GitHub</a> ·
-<a href="https://www.linkedin.com/in/muhammad-almuwarisin-934079376">🔗 LinkedIn</a>
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,tailwind,mysql,sqlite,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🧭 Tentang Profil Ini
+## Featured Project
 
-Repository ini merupakan halaman profil utama GitHub saya.  
-Akun ini saya gunakan untuk menyimpan dan mendokumentasikan proses belajar
-serta proyek yang saya kerjakan selama perkuliahan di bidang Teknologi Informasi.
+### Read-Assist
 
-Saya tertarik pada pengembangan web dan berusaha membangun pemahaman
-yang baik terhadap struktur aplikasi, alur kerja, serta penulisan kode
-yang rapi dan mudah dipahami.
+**Read-Assist** is an accessibility-focused audio book platform for visually impaired users.  
+It supports PDF/EPUB text extraction, automatic Text-to-Speech generation, QR Code routing, and a screen-reader-friendly audio player.
 
----
-
-## 🎯 Fokus yang Sedang Dipelajari
-
-Beberapa hal yang sedang saya pelajari dan kembangkan saat ini:
-
-- 🌐 Pengembangan web menggunakan HTML, CSS, dan JavaScript
-- ⚙️ Backend web menggunakan PHP
-- 🧱 Pengembangan aplikasi dengan framework Laravel
-- 🗂️ Penerapan konsep MVC dalam aplikasi web
-- 🔧 Penggunaan Git untuk pengelolaan versi proyek
+<a href="https://github.com/Ayries18/Read-Assist">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayries18&repo=Read-Assist&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
-## 🧑‍💻 Bahasa dan Teknologi
+## GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayries18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayries18&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📘 Cara Saya Belajar
+## Activity Graph
 
-Saya menggunakan GitHub sebagai catatan perkembangan belajar.  
-Setiap proyek saya jadikan sarana untuk:
+<div align="center">
 
-- 📐 Memahami konsep secara bertahap
-- 🧼 Membiasakan struktur kode yang jelas
-- 🧪 Mencoba mengerjakan fitur secara mandiri
-- 🔁 Mengevaluasi kekurangan untuk diperbaiki di proyek berikutnya
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayries18&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## Focus Areas
+
+- Web application development with Laravel
+- Accessible interface design for visually impaired users
+- Text-to-Speech and audio-based learning tools
+- QR Code-based learning access
+- Clean, maintainable, and secure backend systems
 
 ---
 
 <div align="center">
 
-✨ Belajar perlahan, tapi konsisten
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:f59e0b&height=120&section=footer" width="100%" />
 
 </div>
