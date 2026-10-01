@@ -1,130 +1,91 @@
 <div align="center">
 
 <!-- ========================================================= -->
-<!-- PIXEL HERO -->
+<!-- PIXEL HERO & INTRO -->
 <!-- ========================================================= -->
 
 ![Pixel Hero](https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739)
 
-<br><br>
-
 [![Pixel Intro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&repeat=true&width=900&height=75&lines=MUHAMMAD+ALMUWARISIN;MAHASISWA+TEKNOLOGI+INFORMASI;WEB+DEVELOPER;FOKUS+PADA+AKSESIBILITAS;CREATOR+OF+READ--ASSIST)](https://github.com/Ayries18)
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ayries18-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Ayries18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0F172A?style=for-the-badge&logo=google-chrome&logoColor=F59E0B)](https://ayries18.github.io/Portofolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0F172A?style=for-the-badge&logo=linkedin&logoColor=2563EB)](https://www.linkedin.com/in/muhammad-almuwarisin-934079376/)
+<!-- SOCIALS & VISITOR COUNTER -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayries18.github.io/Portofolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-almuwarisin-934079376/)
+<br><br>
+![](https://komarev.com/ghpvc/?username=Ayries18&color=2563EB&style=for-the-badge&label=PROFILE+VISITORS)
 
 </div>
 
 ---
 
-## 👤 Tentang Saya
+<img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/7eeec481617253.5d045d3e020e9.gif" alt="Coding Animation">
 
-Saya **Muhammad Almuwarisin**, mahasiswa **Teknologi Informasi dari Aceh, Indonesia**.
+## 👨‍💻 Tentang Saya
 
-Saya berfokus pada pengembangan aplikasi web yang **fungsional, terstruktur, dan mudah diakses**. Fokus utama saya adalah **Laravel dan PHP**, dengan JavaScript, Blade, Tailwind CSS, dan SQLite sebagai bagian dari pengembangan aplikasi.
+Halo! Saya **Muhammad Almuwarisin**, Mahasiswa Teknologi Informasi dari Aceh, Indonesia 🇮🇩. 
 
-Saya juga memiliki ketertarikan pada **aksesibilitas dan teknologi inklusif**, terutama bagaimana teknologi dapat membantu membuat informasi digital lebih mudah diakses.
+Saya adalah seorang *Web Developer* yang berfokus pada **PHP & Laravel**, dengan ketertarikan khusus pada **Aksesibilitas Digital (Web Accessibility)**. Saya percaya teknologi harus inklusif dan bisa dinikmati oleh semua kalangan, termasuk teman-teman penyandang disabilitas.
 
-Salah satu proyek utama yang saya kembangkan adalah **Read-Assist**, platform pembelajaran digital yang memanfaatkan buku digital, audio, Text-to-Speech, dan QR Code untuk membantu akses terhadap materi pembelajaran.
+> *"Membangun aplikasi bukan hanya tentang membuat kode yang bekerja, tapi tentang membuat solusi yang bisa digunakan oleh siapa saja."*
+
+- 🔭 Saat ini sedang mengembangkan: **[Read-Assist](https://github.com/Ayries18/Read-Assist)** (Platform inklusif untuk siswa tunanetra).
+- 🌱 Sedang memperdalam: **Clean Architecture di Laravel & API Security**.
+- 💬 Tanya saya tentang: **PHP, Laravel, Tailwind CSS, & Web Accessibility**.
+
+<br clear="both">
 
 ---
 
-## 🛠️ Teknologi yang Saya Gunakan
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayries18&show_icons=true&theme=tokyonight&hide_border=true&title_color=2563EB&icon_color=2563EB" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayries18&theme=tokyonight&hide_border=true&stroke=0000&ring=2563EB&fire=2563EB" height="165" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayries18&layout=compact&theme=tokyonight&hide_border=true&title_color=2563EB" height="165" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Backend & Framework
+**Backend & Database**<br>
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-![PHP](https://skillicons.dev/icons?i=php)
-![Laravel](https://skillicons.dev/icons?i=laravel)
+**Frontend & Styling**<br>
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
-### Frontend
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-### Database
-
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+**Version Control & Tools**<br>
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 🚀 Proyek Utama
+## 🚀 Pinned Projects
 
 <div align="center">
 
-### ♿ READ-ASSIST
-
-**Platform pembelajaran digital yang berfokus pada aksesibilitas bagi pengguna dengan gangguan penglihatan.**
-
-Read-Assist membantu pengguna mengakses materi digital melalui **buku digital, Text-to-Speech, audio, dan QR Code**.
-
-[![Lihat Repository](https://img.shields.io/badge/Lihat%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=2563EB)](https://github.com/Ayries18/Read-Assist)
+| ♿ [READ-ASSIST](https://github.com/Ayries18/Read-Assist) | 🏪 [LOKAPRENEUR](https://github.com/Ayries18/LokaPreneur) | 📰 [PORTAL BERITA](https://github.com/Ayries18/Portal-Berita) |
+|:---|:---|:---|
+| **Platform E-Learning Inklusif**<br>Platform pembelajaran digital dengan *Text-to-Speech*, pemindai QR-Audio, dan dukungan *Screen Reader* khusus tunanetra. | **Marketplace UMKM**<br>Aplikasi manajemen *marketplace* lokal dengan fitur transaksi, pengelolaan produk, dan *dashboard* analitik laporan pendapatan. | **Berita Berbasis MVC**<br>Aplikasi portal berita dengan arsitektur MVC, fitur manajemen kategori artikel, dan antarmuka responsif. |
+| 🔹 `Laravel` 🔹 `TTS` 🔹 `Axe-core` | 🔹 `Laravel` 🔹 `Tailwind` 🔹 `MySQL` | 🔹 `Laravel` 🔹 `PHP` 🔹 `Blade` |
 
 </div>
-
-### ✨ Fitur Utama
-
-| Fitur | Keterangan |
-|:---|:---|
-| 📚 **Buku Digital** | Pengelolaan materi pembelajaran digital |
-| 📄 **Ekstraksi PDF** | Ekstraksi teks menggunakan `pdftotext` |
-| 🔊 **Text-to-Speech** | Mengubah teks menjadi audio |
-| 🔗 **QR Code** | Akses cepat menuju materi audio |
-| 🎧 **Audio Player** | Pemutaran audio |
-| 📊 **Progress Belajar** | Pencatatan progres mendengarkan |
-| 🗣️ **Screen Reader** | Dukungan TalkBack dan screen reader |
-| ⌨️ **Navigasi Keyboard** | Interaksi berbasis keyboard |
-| ♿ **Accessibility** | Antarmuka berorientasi aksesibilitas |
-
-### 🧩 Teknologi Read-Assist
-
-![PHP](https://skillicons.dev/icons?i=php)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-**Tool tambahan:** Blade · Vite · `pdftotext` · axe-core
-
----
-
-## 📂 Proyek Lain
-
-### 🌐 Portofolio
-
-Website portofolio pribadi menggunakan **HTML, CSS, dan JavaScript**, dengan fokus pada tampilan responsif dan penyajian informasi yang sederhana.
-
-[Repository](https://github.com/Ayries18/Portofolio) · [Website](https://ayries18.github.io/Portofolio/)
-
----
-
-### 🏪 LokaPreneur
-
-Aplikasi berbasis Laravel yang berfokus pada **pengelolaan produk, marketplace, transaksi, laporan pendapatan, dan dashboard**.
-
-[Repository](https://github.com/Ayries18/LokaPreneur)
-
----
-
-### 📰 Portal-Berita
-
-Aplikasi portal berita berbasis Laravel yang berfokus pada **penyajian artikel, navigasi, antarmuka responsif, dan pengembangan berbasis MVC**.
-
-[Repository](https://github.com/Ayries18/Portal-Berita)
 
 ---
 
@@ -133,59 +94,10 @@ Aplikasi portal berita berbasis Laravel yang berfokus pada **penyajian artikel, 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph.svg"
-    alt="Pac-Man Contribution Graph"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/Ayries18/Ayries18/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
 </picture>
-
-</div>
-
----
-
-## 🎯 Fokus Pengembangan
-
-<div align="center">
-
-**🌐 Web Development**  
-Laravel · PHP · JavaScript
-
-**♿ Aksesibilitas**  
-Web Inklusif · Accessible Interface
-
-**🔊 Teknologi Audio**  
-Text-to-Speech · Audio Learning
-
-</div>
-
----
-
-## 🌱 Sedang Saya Pelajari
-
-- Laravel dan PHP
-- Pengembangan aplikasi berbasis database
-- Perancangan antarmuka yang mudah diakses
-- Text-to-Speech dan pembelajaran berbasis audio
-- Struktur aplikasi yang bersih dan mudah dipelihara
-- Praktik pengembangan web yang aman
-
----
-
-## 🌐 Terhubung Dengan Saya
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ayries18-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Ayries18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0F172A?style=for-the-badge&logo=google-chrome&logoColor=F59E0B)](https://ayries18.github.io/Portofolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0F172A?style=for-the-badge&logo=linkedin&logoColor=2563EB)](https://www.linkedin.com/in/muhammad-almuwarisin-934079376/)
 
 </div>
 
