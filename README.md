@@ -6,28 +6,32 @@
 
 ![Pixel Hero](https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739)
 
-[![Pixel Intro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&repeat=true&width=900&height=75&lines=MUHAMMAD+ALMUWARISIN;MAHASISWA+TEKNOLOGI+INFORMASI;WEB+DEVELOPER;FOKUS+PADA+AKSESIBILITAS;CREATOR+OF+READ--ASSIST)](https://github.com/Ayries18)
+<br>
+
+[![Pixel Intro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&repeat=true&width=800&height=50&lines=MUHAMMAD+ALMUWARISIN;MAHASISWA+TEKNOLOGI+INFORMASI;WEB+DEVELOPER;FOKUS+PADA+AKSESIBILITAS;CREATOR+OF+READ-ASSIST)](https://github.com/Ayries18)
+
+<br>
 
 <!-- SOCIALS & VISITOR COUNTER -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayries18)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayries18.github.io/Portofolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-almuwarisin-934079376/)
-<br><br>
+
+<br>
+
 ![](https://komarev.com/ghpvc/?username=Ayries18&color=2563EB&style=for-the-badge&label=PROFILE+VISITORS)
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/7eeec481617253.5d045d3e020e9.gif" alt="Coding Animation">
+<img align="right" width="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/7eeec481617253.5d045d3e020e9.gif" alt="Coding Animation">
 
 ## 👨‍💻 Tentang Saya
 
 Halo! Saya **Muhammad Almuwarisin**, Mahasiswa Teknologi Informasi dari Aceh, Indonesia 🇮🇩. 
 
 Saya adalah seorang *Web Developer* yang berfokus pada **PHP & Laravel**, dengan ketertarikan khusus pada **Aksesibilitas Digital (Web Accessibility)**. Saya percaya teknologi harus inklusif dan bisa dinikmati oleh semua kalangan, termasuk teman-teman penyandang disabilitas.
-
-> *"Membangun aplikasi bukan hanya tentang membuat kode yang bekerja, tapi tentang membuat solusi yang bisa digunakan oleh siapa saja."*
 
 - 🔭 Saat ini sedang mengembangkan: **[Read-Assist](https://github.com/Ayries18/Read-Assist)** (Platform inklusif untuk siswa tunanetra).
 - 🌱 Sedang memperdalam: **Clean Architecture di Laravel & API Security**.
@@ -54,23 +58,24 @@ Saya adalah seorang *Web Developer* yang berfokus pada **PHP & Laravel**, dengan
 
 <div align="center">
 
-**Backend & Database**<br>
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<br>
+<b>Backend & Database</b><br><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,laravel,sqlite,mysql" alt="Backend Stack" />
+</a>
 
-**Frontend & Styling**<br>
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+<br><br>
+<b>Frontend & Styling</b><br><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="Frontend Stack" />
+</a>
 
-**Version Control & Tools**<br>
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br><br>
+<b>Version Control & Tools</b><br><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools Stack" />
+</a>
+<br>
 
 </div>
 
@@ -104,7 +109,7 @@ Saya adalah seorang *Web Developer* yang berfokus pada **PHP & Laravel**, dengan
 ---
 
 <!-- ========================================================= -->
-<!-- PIXEL OUTRO -->
+<!-- PIXEL OUTRO & QUOTES -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -113,7 +118,11 @@ Saya adalah seorang *Web Developer* yang berfokus pada **PHP & Laravel**, dengan
 
 <br>
 
-[![Outro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&repeat=true&width=850&height=45&lines=TERIMA+KASIH+SUDAH+BERKUNJUNG;TERUS+BELAJAR;TERUS+MEMBANGUN)](https://github.com/Ayries18)
+[![Outro](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&repeat=true&width=800&height=50&lines=TERIMA+KASIH+SUDAH+BERKUNJUNG;TERUS+BELAJAR;TERUS+MEMBANGUN)](https://github.com/Ayries18)
+
+<br><br>
+
+> *"Code is like humor. When you have to explain it, it’s bad."* <br> — Cory House
 
 <br>
 
